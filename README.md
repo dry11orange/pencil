@@ -1,3 +1,14 @@
+------
+
+user_joe  
+这款pencil保存的文件内容是xml格式的  
+可以通过在外部解析使用,而将本软件作为一个布局工具  
+而新版的pencil放到了另外的仓库开发,文件格式不在兼容,也不再能够可视化  
+所以使用这个仓库的版本
+
+
+----
+
 # Pencil
 
 **Download Pencil from [Github][releases] or [Mozilla][amo-pkg]**
